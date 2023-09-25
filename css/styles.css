@@ -662,7 +662,9 @@ margin-bottom: 16px;
    
   }
   
-  .callback-input:focus {
+  .callback-input:focus
+  
+   {
     border: 1px solid #4d5ae5;
     outline: transparent;
   }
