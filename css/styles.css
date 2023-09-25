@@ -442,13 +442,17 @@ padding: 120px 0;
   line-height: 1.17;
  letter-spacing: 0.02em;
   text-transform: uppercase;
-  margin-bottom: 16px;
+  margin-bottom: 17.5px;
   display: inline-block;
 }
 .footer-list {
     display: flex;
     justify-content: center;
     gap: 16px;
+  }
+  .footer-wrapper{
+    flex-direction: column;
+    display: flex;
   }
   .footer-list-link {
     width: 100%;
@@ -477,7 +481,6 @@ padding: 120px 0;
   color: #f4f4fd;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  margin-top: 17px;
   width: 288px;
 }
 .footer-text-wrapper{
@@ -487,7 +490,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #ffffff;
 margin-bottom: 16px;
-text-align: center;
+
 }
 
 
