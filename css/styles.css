@@ -545,6 +545,10 @@ margin-bottom: 16px;
   border: none;
   border-radius: 4px;
 }
+.button-subscribe:hover,
+.button-subscribe:focus {
+    background-color: #404bbf;
+}
 .subscribe-icon {
     margin-left: 16px;
 }
